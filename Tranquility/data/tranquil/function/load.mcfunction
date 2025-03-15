@@ -1,4 +1,5 @@
 # create tranquil team
+tellraw @a "Loading..."
 team add pacified
 
 # create tranquil triggers
